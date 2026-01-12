@@ -7,7 +7,7 @@ This is a template pages for online shop the full web application is under const
 
 🌐 [Live Preview](https://alexbalak21.github.io/Shop/)
 
-#Screenshoot
+## Screenshoot
 
 ![Screenshot of the ToDo List Application](project_images/ScreenShoot.jpg)
 
