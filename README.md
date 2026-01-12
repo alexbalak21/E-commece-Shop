@@ -3,11 +3,11 @@
 A modern e-commerce website built with HTML, CSS, and JavaScript.
 This is a template pages for online shop the full web application is under construction.
 
-## Live Demo
+### Live Demo
 
-🌐 [Live Preview](https://alexbalak21.github.io/Shop/)
+🌐 [Live Preview](https://alexbalak21.github.io/E-commece-Shop/)
 
-## Screenshoot
+### Screenshoot
 
 ![Screenshot of the ToDo List Application](project_images/ScreenShoot.jpg)
 
