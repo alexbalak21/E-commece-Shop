@@ -49,6 +49,4 @@ The website is built using:
 - JavaScript (Vanilla)
 - Responsive design principles
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
