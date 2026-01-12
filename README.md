@@ -1,4 +1,4 @@
-# 🛒 Online Shop
+# 🛒 E-commerce Online Shop
 
 A modern e-commerce website built with HTML, CSS, and JavaScript.
 This is a template pages for online shop the full web application is under construction.
